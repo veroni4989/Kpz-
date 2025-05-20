@@ -1,0 +1,6 @@
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\ZooClassLibrary\bin\Debug\ZooClassLibrary.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\ZooClassLibrary\bin\Debug\ZooClassLibrary.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\ZooClassLibrary\obj\Debug\ZooClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\ZooClassLibrary\obj\Debug\ZooClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\ZooClassLibrary\obj\Debug\ZooClassLibrary.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-01\KPZ-LAB-01\ZooClassLibrary\obj\Debug\ZooClassLibrary.pdb
