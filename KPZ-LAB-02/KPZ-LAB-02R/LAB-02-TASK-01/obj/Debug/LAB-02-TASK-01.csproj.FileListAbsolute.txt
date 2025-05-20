@@ -1,0 +1,12 @@
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\bin\Debug\LAB-02-TASK-01.exe.config
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\bin\Debug\LAB-02-TASK-01.exe
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\bin\Debug\LAB-02-TASK-01.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\bin\Debug\FactoryClass.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\bin\Debug\SubscriptionsClass.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\bin\Debug\FactoryClass.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\bin\Debug\SubscriptionsClass.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\obj\Debug\LAB-02-TASK-01.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\obj\Debug\LAB-02-TASK-01.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\obj\Debug\LAB-02-TASK-01.csproj.CopyComplete
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\obj\Debug\LAB-02-TASK-01.exe
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\obj\Debug\LAB-02-TASK-01.pdb

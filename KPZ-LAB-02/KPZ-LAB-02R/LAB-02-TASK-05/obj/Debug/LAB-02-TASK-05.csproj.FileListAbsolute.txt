@@ -1,0 +1,7 @@
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-05\bin\Debug\LAB-02-TASK-05.exe.config
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-05\bin\Debug\LAB-02-TASK-05.exe
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-05\bin\Debug\LAB-02-TASK-05.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-05\obj\Debug\LAB-02-TASK-05.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-05\obj\Debug\LAB-02-TASK-05.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-05\obj\Debug\LAB-02-TASK-05.exe
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-05\obj\Debug\LAB-02-TASK-05.pdb

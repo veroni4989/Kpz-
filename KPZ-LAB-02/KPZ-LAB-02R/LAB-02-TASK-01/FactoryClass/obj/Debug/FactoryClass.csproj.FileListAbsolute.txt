@@ -1,0 +1,9 @@
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\FactoryClass\bin\Debug\FactoryClass.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\FactoryClass\bin\Debug\FactoryClass.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\FactoryClass\bin\Debug\SubscriptionsClass.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\FactoryClass\bin\Debug\SubscriptionsClass.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\FactoryClass\obj\Debug\FactoryClass.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\FactoryClass\obj\Debug\FactoryClass.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\FactoryClass\obj\Debug\FactoryClass.csproj.CopyComplete
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\FactoryClass\obj\Debug\FactoryClass.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\FactoryClass\obj\Debug\FactoryClass.pdb

@@ -1,0 +1,6 @@
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\SubscriptionsClass\bin\Debug\SubscriptionsClass.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\SubscriptionsClass\bin\Debug\SubscriptionsClass.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\SubscriptionsClass\obj\Debug\SubscriptionsClass.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\SubscriptionsClass\obj\Debug\SubscriptionsClass.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\SubscriptionsClass\obj\Debug\SubscriptionsClass.dll
+C:\Users\Вадим\Desktop\U.W.F\University\KPZ\KPZ-LAB-02\KPZ-LAB-02R\LAB-02-TASK-01\SubscriptionsClass\obj\Debug\SubscriptionsClass.pdb
